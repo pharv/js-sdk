@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/open-feature/js-sdk/compare/angular-sdk-v1.3.1...angular-sdk-v1.3.2) (2026-08-24)
+
+
+### 🧹 Chore
+
+* resolve open dependabot security alerts ([#1446](https://github.com/open-feature/js-sdk/issues/1446)) ([0f47863](https://github.com/open-feature/js-sdk/commit/0f478630bf84bb65f81cb29387b4295b6773122d))
+
 ## [1.3.1](https://github.com/open-feature/js-sdk/compare/angular-sdk-v1.3.0...angular-sdk-v1.3.1) (2026-06-12)
 
 
